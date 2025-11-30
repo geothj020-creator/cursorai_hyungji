@@ -5,12 +5,12 @@ const profileData = {
   name: 'Hyungji',
   subtitle: '지리교사',
   introduction: `안녕하세요! 저는 창의적이고 열정적인 교사입니다. 
-새로운 기술을 배우고 도전하는 것을 좋아합니다다.`,
+  .`,
   experiences: [
     {
-      title: '지리교사사',
+      title: '지리교사',
       period: '',
-      description: '지리 수업 설계계'
+      description: '지리 수업 설계'
     },
     {
       title: '프로젝트 리더',
