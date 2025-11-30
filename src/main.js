@@ -4,15 +4,13 @@ import './style.css'
 const profileData = {
   name: 'Hyungji',
   subtitle: '지리교사',
-  introduction: `안녕하세요! 저는 창의적이고 열정적인 개발자입니다. 
-새로운 기술을 배우고 도전하는 것을 좋아하며, 
-사용자 경험을 최우선으로 생각합니다. 
-함께 성장하고 더 나은 세상을 만들어가는 것이 제 목표입니다.`,
+  introduction: `안녕하세요! 저는 창의적이고 열정적인 교사사입니다. 
+새로운 기술을 배우고 도전하는 것을 좋아합니다다.`,
   experiences: [
     {
-      title: '프론트엔드 개발자',
-      period: '2023.01 - 현재',
-      description: 'React, Vue.js를 활용한 웹 애플리케이션 개발 및 사용자 인터페이스 설계'
+      title: '지리교사사',
+      period: '',
+      description: '지리 수업 설계계'
     },
     {
       title: '프로젝트 리더',
